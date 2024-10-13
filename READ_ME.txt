@@ -1,1 +1,1 @@
-Please run Client.py in the command console to start client.
+Simply run client.exe to start simulation. ENJOY!
